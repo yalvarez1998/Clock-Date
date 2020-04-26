@@ -2,7 +2,7 @@
 
 ## About ##
 
-This is clock web app that I created using HTML, CSS, and JavaScript .
+This is clock web app that I created using HTML, CSS, and JavaScript.
 
 ## Tech ##
 
