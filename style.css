@@ -10,7 +10,7 @@ body
     left: 50%;
     transform: translateX(-50%) translateY(-50%);
     color: #5F9EA0;
-    font-size: 50px;
+    font-size: 40px;
     border: 1px solid #008B8B;
     padding: 0px 5px 0px 5px;
 }
